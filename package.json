@@ -1,0 +1,23 @@
+{
+  "name": "gulpjs-starter-template",
+  "version": "1.0.0",
+  "description": "<h1> Gulp.js Kullanımı </h1>\r <p>Gulp js nedir, neden ihtiyaç duyarız, neler yapılır....</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serdargoleli/gulpjs-starter-template.git"
+  },
+  "keywords": [],
+  "author": "Serdar Göleli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serdargoleli/gulpjs-starter-template/issues"
+  },
+  "homepage": "https://github.com/serdargoleli/gulpjs-starter-template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
