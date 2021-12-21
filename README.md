@@ -20,3 +20,6 @@ V8 engine JavaScript kodu makine koduna çevirdiği için uygulamalar çok hızl
 Frontend tarafındaki işlemleri otomatikleştiren ve berlilenen yerler çıktıları gönderen araç.
 <code>npm install gulp</code>
 package.json dosyası içerisinde bulunan <code>dependencies</code> objesi prod ortamına geçtiğinde servera indirilecek dosyaları belirtir. Eğer bu dosyaların servera yüklenmesini istemiyorsan <code>dev depandencies</code> olarak yüklemek gerekiyor yani sadece <code>dev</code> oratamında işimize yarıyorsa <code>npm install gulp --save-dev</code>
+
+<h3>Gulp js Kullanımı</h3>
+<p><code>gulpfile.js</code> dosyasımızı oluşturduktan sonra gerekli tanımlamaları ve kullanacağımı paketleri ekleyip task oluşturuyoruz.</p>
